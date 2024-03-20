@@ -2,7 +2,7 @@
 <h3 align="center">An undergraduate student.</h3>
 
 <p align="left">
-Hello, I'm Kurt. I'm interested in software engineering and coding. Recently, I've been focusing on Linux systems, Laravel, and PHP as they are relevant to my MIS job in school. The software world is very cool, many tools and new technologies are popping up. I look forward to utilizing them to speed up my learning.
+Hello, I'm Kurt. I'm interested in software engineering and coding. Recently, I've been focusing on Linux systems, Laravel, and PHP since they are relevant to my MIS job in school. The software world is very cool, many tools and new technologies are popping up. I look forward to utilizing them to speed up my learning.
 </>
 <h3 align="left">Recent Project</h3>
 <ul>  
