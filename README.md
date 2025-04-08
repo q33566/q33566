@@ -1,37 +1,22 @@
-<h1 align="center">Hi 👋, I'm Kurt</h1>
-<h3 align="center">An undergraduate student.</h3>
-
-<p align="left">
-Hello, I'm Kurt. I'm interested in software engineering and coding. Recently, I've been focusing on Linux systems, Laravel, and PHP. The software world is very cool, many tools and new technologies are popping up. I look forward to utilizing them to speed up my learning.
-</>
-<h3 align="left">Recent Project</h3>
-<ul>  
-  <li><a href="https://github.com/q33566/ASM-Final.git">Assembly: Whack-a-Mole game</a></li>
-  <li><a href="https://github.com/q33566/laravel-job-list-app.git">PHP & laravel: Job Listing Website</a></li>
-    <ul><li>Based on this tutorial:<a href = "https://www.youtube.com/watch?v=MYyJ4PuL4pY&t=681s"> laravel from scrach 2022</a></ul>
-  <li><a href="https://github.com/q33566/laravel-job-list-app.git">Java: side-scrolling game</a></li>
-</ul>
-
-<h3 align="left">Languages and Tools:</h3>
-<p>
-<img alt="Static Badge" src="https://img.shields.io/badge/C%2B%2B-gray?logo=c%2B%2B&labelColor=%2300599C">
-<img alt="Static Badge" src="https://img.shields.io/badge/Laravel-%23FF2D20?logo=laravel&labelColor=black">
-<img alt="Static Badge" src="https://img.shields.io/badge/Python-%233776AB?logo=python&labelColor=black">
-<img alt="Static Badge" src="https://img.shields.io/badge/Java-gray?labelColor=red">
-<img alt="Static Badge" src="https://img.shields.io/badge/Linux-%23FCC624?logo=Linux&label=%20%20%20&labelColor=black">
-<img alt="Static Badge" src="https://img.shields.io/badge/PHP-%23777BB4?logo=PHP&label=%20%20%20&labelColor=black">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hi+I'm+Kurt" alt="Typing SVG" />
 </p>
-<!--
-**q33566/q33566** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+---
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=q33566&show_icons=true&theme=radical" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=q33566&layout=compact&langs_count=8&card_width=320&theme=radical" alt="Top Langs"/>
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+</p>
